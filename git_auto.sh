@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 # git_auto.sh
 git add .
 git commit -m "Auto-commit on $(date '+%Y-%m-%d %H:%M:%S')"
